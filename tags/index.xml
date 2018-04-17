@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NeuralTrading.Net</title>
-    <link>http://neuraltrading.net/tags/</link>
+    <link>http://www.neuraltrading.net/tags/</link>
     <description>Recent content in Tags on NeuralTrading.Net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://neuraltrading.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.neuraltrading.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
